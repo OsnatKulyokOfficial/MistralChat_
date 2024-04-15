@@ -114,19 +114,22 @@ Customer service scenario responses became more empathetic and contextually appr
 Visualization depicting the chatbot's learning from user feedback
 
 1. Before
-   ![1](https://github.com/OsnatKulyokOfficial/MistralChat./assets/129261751/db2c4b01-e506-462c-bd2c-6544231f5d22)
+   ![1](https://github.com/OsnatKulyokOfficial/MistralChat_/assets/129261751/7b4c9127-f90f-4eb8-8481-3b0a1e21dbf1)
    After
-   ![2](https://github.com/OsnatKulyokOfficial/MistralChat./assets/129261751/db9c76ba-ae34-4edb-9fc9-696f070a4c9f)
+![2](https://github.com/OsnatKulyokOfficial/MistralChat_/assets/129261751/e5595f8e-aa98-4b6d-85bb-5a5a73a69bba)
 
 2. Before
-   ![3](https://github.com/OsnatKulyokOfficial/MistralChat./assets/129261751/c4378216-7a00-45f0-9206-7867301b3822)
+   ![3](https://github.com/OsnatKulyokOfficial/MistralChat_/assets/129261751/4f9de280-103c-4fcc-975e-9979cb0784d2)
+
    After
-   ![4](https://github.com/OsnatKulyokOfficial/MistralChat./assets/129261751/5dc42cb4-19f9-4ceb-b0db-ad87c80c2bb6)
+   ![4](https://github.com/OsnatKulyokOfficial/MistralChat_/assets/129261751/463f6cb4-3659-431b-ade5-e86411db63d5)
 
 3. Before
-   ![5](https://github.com/OsnatKulyokOfficial/MistralChat./assets/129261751/4835c03f-dcb2-4711-9ccf-515c756b8ac6)
+![5](https://github.com/OsnatKulyokOfficial/MistralChat_/assets/129261751/6be6d4db-418d-4e5a-9292-6e0402c47153)
+
    After
-   ![6](https://github.com/OsnatKulyokOfficial/MistralChat./assets/129261751/83d120ff-13d3-405c-961e-bc5c6766b045)
+  ![6](https://github.com/OsnatKulyokOfficial/MistralChat_/assets/129261751/cd18bb22-2fce-412d-8c55-4041a1fd03b3)
+
 
 ### Discussion
 
