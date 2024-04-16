@@ -9,6 +9,8 @@ Developed a Python-based chatbot using the transformers library, incorporating u
 ## Technological Journey
 
 Hugging Face was a completely new area for me, and I used the following diagram to understand what I was up against:
+![image](https://github.com/OsnatKulyokOfficial/MistralChat_/assets/129261751/6593ae3c-8dc9-4cf3-a5b8-b5fc4280756f)
+
 ![WhatsApp Image 2024-04-15 at 00 35 36](https://github.com/OsnatKulyokOfficial/MistralChat/assets/129261751/64ee4232-f1cf-498d-85de-8c2fe37de465)
 
 ### Hugging Face & Transformers Introduction
